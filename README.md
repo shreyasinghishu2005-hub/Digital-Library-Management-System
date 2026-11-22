@@ -1,4 +1,4 @@
-# 📚 Digital Library Management System (Python Edition)
+# 📚 Digital Library Management System 
 
 > A modern, full-featured **Digital Library Management System** ported into Python with an elegant, minimalist white aesthetic and responsive UI/UX.
 
